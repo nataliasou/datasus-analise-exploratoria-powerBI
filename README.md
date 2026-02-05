@@ -41,9 +41,6 @@ Neste outro gráfico apresenta a distribuição do medicamento na região Nordes
 
 O gráfico apresenta a evolução anual das compras com base na métrica de preço máximo cobrado ao governo, permitindo visualizar o comportamento dos gastos ao longo do tempo. Observa-se uma tendência geral de crescimento no período de 2008 a 2023, com aumentos graduais especialmente entre 2020 e 2021, porém em ritmo mais moderado, possivelmente influenciado pelo contexto da pandemia. O acumulado final evidencia expansão contínua, sem registros de valores negativos ou retrações anuais, indicando que não houve redução de gastos em nenhum dos anos analisados.
 
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiYjVlZDRlZDEtYzY4Yi00YTRmLWEwNmItOTI4OWJhNDU4YTVlIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection)
-
-
 
 ### 📊 Estrutura da base de dados
 
